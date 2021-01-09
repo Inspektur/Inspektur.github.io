@@ -1,0 +1,35 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000000!important;
+  opacity: 0.88;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 16px;
+}
+
+body {
+  padding-top: 56px;
+}
+
+.text-dark.footer-basic {
+  background-color: #000000!important;
+}
+
+.text-white {
+  color: #fff!important;
+  font-size: 19px;
+}
+
+.copyright {
+  color: #fff!important;
+}
+
+a {
+  color: #fff!important;
+}
+
+.icon.ion-social-instagram {
+  color: #fff!important;
+}
+
