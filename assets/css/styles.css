@@ -1,6 +1,6 @@
 .navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
   background-color: #000000!important;
-  opacity: 0.88;
+  opacity: 0.96;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -31,5 +31,9 @@ a {
 
 .icon.ion-social-instagram {
   color: #fff!important;
+}
+
+.jumbotron {
+  text-align: center;
 }
 
